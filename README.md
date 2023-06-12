@@ -10,3 +10,16 @@ https://www.kdnuggets.com/2022/11/complete-data-engineering-study-roadmap.html
 https://medium.com/coriers/data-engineering-roadmap-for-2021-eac7898f0641     
 https://www.educba.com/data-engineer-roadmap/      
 
+# Feramentas
+
+Apache Spark,  
+Apache Hadoop,  
+Apache Hive   
+Airflow   
+
+Nuvem, GCP, AWS ou Azure.   
+
+database: PostgreSQL  
+
+
+
