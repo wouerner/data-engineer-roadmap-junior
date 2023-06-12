@@ -2,7 +2,7 @@
 
 Pesquisa 1 pagina do google dia 9 de Junho de 2023
 Lista de links:    
-https://www.projectpro.io/article/data-engineer-learning-path/550     
+https://www.projectpro.io/article/data-engineer-learning-path/550     (Motivações)   
 https://www.datakwery.com/post/data-engineering-roadmap-for-2023/     
 https://github.com/datastacktv/data-engineer-roadmap     
 https://understandingdata.com/posts/the-data-engineers-roadmap/     
